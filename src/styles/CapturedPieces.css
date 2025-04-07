@@ -1,0 +1,18 @@
+.captured-pieces {
+  margin-bottom: 1rem;
+}
+
+.captured-pieces h3 {
+  font-size: 14px;
+  margin-bottom: 0.5rem;
+}
+
+.pieces-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.captured-piece {
+  font-size: 24px;
+}
